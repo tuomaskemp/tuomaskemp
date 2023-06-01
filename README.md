@@ -1,20 +1,15 @@
 ### Hi there 👋
 
-
-## About Me
-
 I am a freelance web and mobile (cross-platform) developer. I have expertise in a wide range of technologies and enjoy working on diverse projects. Now looking for full-time opportunities 👀
 
 ## Skills
 
 ### Main Languages
-
 - Typescript
 - Javascript
 - Python
 
 ### Frontend Development
-
 - React
 - React Native
 - Django
@@ -27,7 +22,6 @@ I am a freelance web and mobile (cross-platform) developer. I have expertise in 
   - Styled Components
 
 ### Backend Development
-
 - Node.js
 - Express
 - Python
@@ -36,7 +30,6 @@ I am a freelance web and mobile (cross-platform) developer. I have expertise in 
 - ORMs: Sequelize, Prisma, TypeORM, Django ORM
 
 ### Databases
-
 - MongoDB
 - PostgreSQL
 - MariaDB
@@ -49,7 +42,6 @@ I am a freelance web and mobile (cross-platform) developer. I have expertise in 
 - Vercel, Netlify, Heroku, Supabase, Firebase
 
 ### Development Tools
-
 - Git & Github
 - Jira
 - Docker
@@ -57,7 +49,6 @@ I am a freelance web and mobile (cross-platform) developer. I have expertise in 
 - Linux & MacOS & Windows
 
 ### Testing & Automation
-
 - Jest
 - Selenium
 - Cypress
@@ -65,4 +56,4 @@ I am a freelance web and mobile (cross-platform) developer. I have expertise in 
 - NUnit
 
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/tuomas-kemppainen-177476279/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tuomas-kemppainen-177476279/)
