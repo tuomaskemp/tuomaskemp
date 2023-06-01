@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am a freelance web and mobile (cross-platform) developer. I have expertise in a wide range of technologies and enjoy working on diverse projects. Now looking for full-time opportunities 👀
 
