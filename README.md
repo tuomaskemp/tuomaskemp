@@ -2,58 +2,24 @@
 
 I am a freelance web and mobile (cross-platform) developer. I have expertise in a wide range of technologies and enjoy working on diverse projects. Now looking for full-time opportunities 👀
 
-## Skills
+### Skills
+Main Languages: Typescript, Javascript, Python
 
-### Main Languages
-- Typescript
-- Javascript
-- Python
+Frontend Development: React, React Native, Django
 
-### Frontend Development
-- React
-- React Native
-- Django
-- Styling
-  - CSS
-  - Tailwind CSS
-  - Mantine
-  - Semantic UI
-  - Bootstrap
-  - Styled Components
+Styling: CSS, Tailwind CSS, Mantine, Semantic UI, Bootstrap, Styled Components
 
-### Backend Development
-- Node.js
-- Express
-- Python
-- Django Rest Framework
-- C#
-- ORMs: Sequelize, Prisma, TypeORM, Django ORM
+Backend Development: Node.js, Express, Python, Django Rest Framework, C#
 
-### Databases
-- MongoDB
-- PostgreSQL
-- MariaDB
-- MySQL
-- SQLite
+ORMs: Sequelize, Prisma, TypeORM, Django ORM
 
-### Cloud
-- AWS
-- Azure
-- Vercel, Netlify, Heroku, Supabase, Firebase
+Databases: MongoDB, PostgreSQL, MariaDB, MySQL, SQLite
 
-### Development Tools
-- Git & Github
-- Jira
-- Docker
-- VS Code & Visual Studio
-- Linux & MacOS & Windows
+Cloud: AWS, Azure, Vercel, Netlify, Heroku, Supabase, Firebase
 
-### Testing & Automation
-- Jest
-- Selenium
-- Cypress
-- Puppeteer
-- NUnit
+Development Tools: Git & Github, Jira, Docker, VS Code & Visual Studio, Linux & MacOS & Windows
+
+Testing & Automation: Jest, Selenium, Cypress, Puppeteer, NUnit
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tuomas-kemppainen-177476279/)
